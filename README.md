@@ -8,19 +8,19 @@ Gremlin is designed to be a practical local coding companion rather than a cloud
 
 ## Features
 
-* 🤖 Local LLM inference through Ollama
-* 📁 Workspace-aware filesystem tools
-* 🔎 Project type detection
-* ✏️ File creation and focused patching
-* 🔍 Workspace text search
-* 🧪 Project-aware verification and testing
-* 🐙 Git status, diff, and log inspection
-* ⏱️ Command timeouts
-* 🛑 Process cleanup on interruption
-* 🚫 Basic protection against obviously destructive commands
-* 🧠 Conversation context management
-* 🧩 Configurable model and workspace
-* 🐍 Automatic Python virtual environment setup
+* Local LLM inference through Ollama
+* Workspace-aware filesystem tools
+* Project type detection
+* File creation and focused patching
+* Workspace text search
+* Project-aware verification and testing
+* Git status, diff, and log inspection
+* Command timeouts
+* Process cleanup on interruption
+* Basic protection against obviously destructive commands
+* Conversation context management
+* Configurable model and workspace
+* Automatic Python virtual environment setup
 
 ---
 <img width="919" height="820" alt="Screenshot_20260818_122521" src="https://github.com/user-attachments/assets/1e3344e7-3be9-4d09-bd55-5890d7f7f5f8" />
@@ -393,12 +393,6 @@ Some limitations include:
 * Automatic verification is currently limited to supported project profiles.
 * Binary files are not exposed through the normal text file tools.
 * Shell operators are not interpreted by `run_command`.
-
-## License
-
-Add your preferred license here before publishing the repository.
-
-If you intend to make Gremlin open source, adding a `LICENSE` file to the repository is recommended.
 
 ---
 
